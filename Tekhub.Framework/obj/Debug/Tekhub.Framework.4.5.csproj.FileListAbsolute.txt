@@ -1,0 +1,5 @@
+C:\Repos\Tekhub.Framework\Tekhub.Framework\bin\Debug\Tekhub.Framework.45.dll
+C:\Repos\Tekhub.Framework\Tekhub.Framework\bin\Debug\Tekhub.Framework.45.pdb
+C:\Repos\Tekhub.Framework\Tekhub.Framework\obj\Debug\Tekhub.Framework.45.dll
+C:\Repos\Tekhub.Framework\Tekhub.Framework\obj\Debug\Tekhub.Framework.45.pdb
+C:\Repos\Tekhub.Framework\Tekhub.Framework\obj\Debug\Tekhub.Framework.4.5.csprojResolveAssemblyReference.cache
